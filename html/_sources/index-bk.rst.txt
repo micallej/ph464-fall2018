@@ -1,0 +1,167 @@
+.. PH641
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+PH641 Statistical Thermophysics
+===============================
+
+.. toctree::
+   :includehidden:
+   :hidden:
+   :maxdepth: 1
+
+   Syllabus <index>	      
+   Schedule <index>
+   Homework <homework>
+   Notes <notes>
+
+
+.. _syllabus2:
+
+`Syllabus <http://physics.oregonstate.edu/syllabus/ph641>`_
+###########################################################
+
+The syllabus is located at `<http://physics.oregonstate.edu/syllabus/ph641>`_
+
+
+.. _schedule:
+
+Schedule
+########################################################
+
+The schedule is tentative and will change as the course
+progresses. Check back frequently.
+
++-------+------+------+----------------------------------------------------+----------+
+|Week   | Day         | Topic                                              | Quiz/HW  |
++=======+======+======+====================================================+==========+
+|1      | Wed  |4/4   | Introduction                                       |          |
++-------+------+------+----------------------------------------------------+----------+
+|                     | Introduction                                       |          |
++-------+------+------+----------------------------------------------------+----------+
+|6      | Mon  |10/30 | Math Bits: Zapping with D                          |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Tue  |10/31 | Math Bits: Variables, Representations,             |          |
+|       |      |      | and the Partial Derivative Machine                 |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Wed  |11/1  | Math Bits: dU and Integration                      | HW 1 due |
++-------+------+------+----------------------------------------------------+----------+
+|       | Thu  |11/2  | Math Bits: Partial Derivatives                     |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Fri  |11/3  | Math Bits: Derivatives, Integrals, and Cycles      | HW 2 due |
++-------+------+------+----------------------------------------------------+----------+
+|7      | Mon  |11/6  | Ice Calorimetry Lab                                |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Tue  |11/7  | Concepts: temperature, equilibrium, system,        | Quiz  1  |
+|       |      |      | environment, state, state variables, process,      |          |
+|       |      |      | energy, heat, equation of state.                   |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Wed  |11/8  | First Law, Second Law                              | HW 3 due |
++-------+------+------+----------------------------------------------------+----------+
+|       | Thu  |11/9  | quasistatic process, work, thermodynamic identity  |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Fri  |11/10 | Holiday, no class                                  |          |
++-------+------+------+----------------------------------------------------+----------+
+|8      | Mon  |11/13 | continued, heat capacity                           | HW 4 due |
++-------+------+------+----------------------------------------------------+----------+
+|       | Tue  |11/14 | Entropy while expanding a gas activity             | Quiz 2   |
++-------+------+------+----------------------------------------------------+----------+
+|       | Wed  |11/15 | Integrating work, p-V diagram, heat and S-T diagram| HW 5 due |
++-------+------+------+----------------------------------------------------+----------+
+|       | Thu  |11/16 | Heat engines, Carnot cycle, Carnot efficiency      |          |
+|       |      |      | Simple cycle activity                              |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Fri  |11/17 | Thermodynamic potentials, Maxwell relations        | HW 6 due |
++-------+------+------+----------------------------------------------------+----------+
+|9      | Mon  |11/20 | Probability and Combinatorics                      |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Tue  |11/21 | Microcanonical Ensemble                            | Quiz 3   |
+|       |      |      |                                                    |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Wed  |11/22 | Canonical Ensemble, partition function             | HW 7 due |
++-------+------+------+----------------------------------------------------+----------+
+|       | Thu  |11/23 | Holiday, no class                                  |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Fri  |11/24 | Holiday, no class                                  |          |
+|       |      |      |                                                    |          |
++-------+------+------+----------------------------------------------------+----------+
+|10     | Mon  |11/27 | Canonical Ensemble, continued                      |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Tue  |11/28 | Energy of a gas of diatomic molecules              | Quiz 4   |
+|       |      |      |                                                    |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Wed  |11/29 | Energy of a gas of diatomic molecules, cont.       | HW 8 due |
++-------+------+------+----------------------------------------------------+----------+
+|       | Thu  |11/30 | Random walks                                       |          |
++-------+------+------+----------------------------------------------------+----------+
+|       | Fri  |12/1  | Review                                             | HW 9 due |
+|       |      |      |                                                    |          |
++-------+------+------+----------------------------------------------------+----------+
++-------+------+------+----------------------------------------------------+----------+
+|Finals | Wed  |6/13  | Final Exam, 2:00pm, Weniger 377                    |          |
++-------+------+------+----------------------------------------------------+----------+
+
+
+.. list-table:: Frozen Delights!
+   :widths: 15 10 30
+   :header-rows: 1
+
+   * - Treat
+     - Quantity
+     - Description
+   * - Albatross
+     - 2.99
+     - On a stick!
+   * - Crunchy Frog
+     - 1.49
+     - If we took the bones out, it wouldn't be
+       crunchy, now would it?
+   * - Gannet Ripple
+     - 1.99
+     - On a stick!
+
+.. list-table:: Frozen Delights!
+   :widths: auto
+   :header-rows: 1
+
+   * - Treat
+     - Quantity
+     - Description
+   * - Albatross
+     - 2.99
+     - On a stick!
+   * - Crunchy Frog
+     - 1.49
+     - If we took the bones out, it wouldn't be
+       crunchy, now would it?
+   * - Gannet Ripple
+     - 1.99
+     - On a stick!
+
+
+.. csv-table:: Frozen Delights!
+   :header: "Treat", "Quantity", "Description"
+   :widths: 15, 10, 30
+
+   "Albatross", 2.99, "On a stick!"
+   "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
+   crunchy, now would it?"
+   "Gannet Ripple", 1.99, "On a stick!"
+
+.. csv-table:: Frozen Delights!
+   :header: "Treat", "Quantity", "Description"
+   :widths: 15, 10, 30
+
+   "Albatross", 2.99, "On a stick!"
+   "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
+   crunchy, now would it?"
+   "Gannet Ripple", "On a stick!"
+
+   
+..
+   Indices and tables
+   ==================
+
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`

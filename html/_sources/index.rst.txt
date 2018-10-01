@@ -1,0 +1,37 @@
+.. PH641
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+PH464 Scientific Computing II
+===============================
+
+.. toctree::
+   :includehidden:
+   :hidden:
+   :maxdepth: 1
+
+   Syllabus <index>	      
+   Reading <read>
+
+
+.. _syllabus2:
+
+`Syllabus <http://physics.oregonstate.edu/~schneigu/COURSES/ph464/pdfs/syllabus-ph464-fall2018.pdf>`_
+#############################################################################################
+
+The syllabus is located at `<http://physics.oregonstate.edu/~schneigu/COURSES/ph464/pdfs/syllabus-ph464-fall2018.pdf>`_
+
+.. _schedule:
+
+Schedule
+#############################################################################################
+
+
+   
+..
+   Indices and tables
+   ==================
+
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`

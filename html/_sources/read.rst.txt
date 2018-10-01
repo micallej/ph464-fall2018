@@ -1,0 +1,40 @@
+.. read
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Reading Materials
+======================================
+
+Week 2
+---------------------------------------------
+Python Data Science Handbook
+
+Ch 2 pages 33-50     up to and including “The Basics of NumPy Arrays”
+
+Ch 4 pages 217-237   up to and including "Simple Scatter Plots”
+
+Introduction to git (see below)
+
+Week 3
+---------------------------------------------
+TBA
+
+Git
+---------------------------------------------
+
+Video introduction: `Git for ages 4 and up <https://www.youtube.com/watch?v=1ffBJ4sVUb4>`_
+
+(Simply search with google or directly on youtube.com)
+
+Official git tutorial: `<https://git-scm.com/docs/gittutorial>`_
+or any other tutorial on git (there are many)
+
+One page summaries of essential git commands (cheat sheets)
+
+Github cheat sheet:
+`<https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf>`_
+
+Another one:
+`<http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf>`_
+
+And another: `<https://about.gitlab.com/images/press/git-cheat-sheet.pdf>`_
