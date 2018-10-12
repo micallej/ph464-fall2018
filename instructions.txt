@@ -1,0 +1,37 @@
+
+Project One: a simple data analyiss program and using git.
+
+The goal of the first project is to write a complete program to read in x-y data from a file and calculate least squares regression to this data. We will first do a linear regression using a parabolic model. Later we will add a nonlinear regression using a solid state equation of state called the Murnaghan equation.
+
+While developing your program you are tracking your development using git.
+Commit your project apporixmately after you have achieved the following milestones.
+
+Before you start do these 2 steps.
+1- Initialize your name and email for git (see cheat sheet):
+
+git config --global user.name "[name]"
+git config --global user.email "[email address]"
+
+2- Copy the project directory projects/one into the student subdirectory with your initial added like
+
+cp -r projects/one students/one-gs
+
+Work and make changes in this directory only. 
+
+1 - Read the data from file and create x and y data.
+2 - Add a plot of your data.
+3 - Perform a linear regression to a parabolic function using for example
+    (numpy/polyfit)
+    Update your graph.
+    Extract the minimum and the curvature from your linear regression.
+    
+4 - Observe the performance of your regression and think about the validity of  a quadratic approximation. Improve your linear regression by restricting your data to a few points (how many is reasonable?) around the minimum.
+
+Optional:
+
+5 - Perform a nonlinear regression to the Murnaghan equation of state
+    (wikipedia: https://en.wikipedia.org/wiki/Murnaghan_equation_of_state)
+    using for example (numpy/curvefit) Update your graph.
+
+
+
